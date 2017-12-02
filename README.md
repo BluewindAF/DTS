@@ -1,2 +1,3 @@
 # DTS
-Down To Smash? ;)
+
+A repository to hold files for MLH project
