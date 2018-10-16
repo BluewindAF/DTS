@@ -1,0 +1,83 @@
+body
+{
+  font-family: "Verdana";
+  text-align: center;
+}
+
+
+#header{
+  text-align: center;
+}
+
+h1{
+  color: black;
+  font-size: 300%;
+}
+
+#subtitle{
+  font-size: 200;
+}
+
+#leftText1{
+  font-size: 175%;
+  position: fixed;
+  text-align: left;
+  left: 35px;
+  top: 200px
+}
+
+#names{
+  font-size:150%;
+  position:fixed;
+  text-align: left;
+  left: 35px;
+  top: 250px;
+}
+
+
+img{
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  position: fixed;
+  opacity: .8;
+}
+
+
+a.home{
+  color: red;
+  font-size: 25px;
+  position: fixed;
+  top: 180px;
+  left: 480px;
+  opacity: .8;
+}
+
+a.terms{
+  color: red;
+  font-size: 25px;
+  position: fixed;
+  top: 180px;
+  left: 580px;
+  opacity: .8;
+}
+
+
+a.culture{
+  color: red;
+  font-size: 25px;
+  position: fixed;
+  top: 180px;
+  left: 680px;
+  opacity: .8;
+}
+
+a.about{
+  color: red;
+  font-size: 25px;
+  position: fixed;
+  top: 180px;
+  left: 800px;
+  opacity: .8;
+}

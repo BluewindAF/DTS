@@ -1,0 +1,113 @@
+body
+{
+  font-family: "Verdana";
+  text-align: center;
+}
+
+
+#header{}
+
+h1{
+  color: black;
+  font-size: 300%;
+}
+
+#subtitle{
+  font-size: 175%;
+}
+
+#PH1{
+  font-size: 125%;
+  position: fixed;
+  text-align: left;
+  left: 25px;
+  top: 175px
+}
+
+#PB1{
+  font-size: 100% ;
+  position:fixed ;
+  text-align: left;
+  margin-right: 600px;
+  left: 35px;
+  top: 225px
+}
+
+#PH2{
+  font-size: 125%;
+  position: fixed;
+  text-align: left;
+  left: 25px;
+  top: 325px
+}
+
+#PB2{
+  font-size: 100% ;
+  position:fixed ;
+  text-align: left;
+  margin-right: 600px;
+  left: 35px;
+  top: 375px
+}
+
+#PH3{
+  font-size: 125%;
+  position: fixed;
+  text-align: left;
+  left: 25px;
+  top: 450px
+  }
+#PB3{
+  font-size: 100% ;
+  position:fixed ;
+  text-align: left;
+  margin-right: 600px;
+  left: 35px;
+  top: 500px
+}
+img{
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  position: fixed;
+  opacity: .8;
+}
+
+
+a.home{
+  color: red;
+  font-size: 25px;
+  position: fixed;
+  top: 180px;
+  left: 480px;
+  opacity: .8;
+}
+
+a.terms{
+  color: red;
+  font-size: 25px;
+  position: fixed;
+  top: 180px;
+  left: 580px;
+  opacity: .8;
+}
+
+
+a.culture{
+  color: red;
+  font-size: 25px;
+  position: fixed;
+  top: 180px;
+  left: 680px;
+  opacity: .8;
+}
+
+a.about{
+  color: red;
+  font-size: 25px;
+  position: fixed;
+  top: 180px;
+  left: 800px;
+  opacity: .8;
+}

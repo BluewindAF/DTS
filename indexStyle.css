@@ -1,0 +1,101 @@
+body
+{
+  font-family: "Verdana";
+  text-align: center;
+}
+
+
+#header{}
+
+h1{
+  color: black;
+  font-size: 300%;
+}
+
+#subtitle{
+  font-size: 200%;
+}
+
+#leftTextHeader1{
+  font-size: 150%;
+  position: fixed;
+  left: 100px;
+  top: 250px;
+}
+
+#leftSubText1{
+  font-size: 110%;
+  position: fixed;
+  text-align: left;
+  left: 100px;
+  top: 300px;
+}
+
+
+#leftTextHeader2{
+  font-size: 150%;
+  position: fixed;
+  left: 100px;
+  top: 380px;
+}
+
+#leftSubText2{
+  font-size: 110%;
+  position: fixed;
+  text-align: left;
+  left: 100px;
+  top: 430px;
+}
+
+img{
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  position: fixed;
+  opacity: .8;
+}
+
+
+/*
+This is the code for the bar menu. Must be in everyone's css's but must be edited per situation.
+Keep the horizontal line (that is 180 px from the top) free so we can use it for the menu.
+*/
+
+
+a.home{
+  color: red;
+  font-size: 25px;
+  position: fixed;
+  top: 180px;
+  left: 480px;
+  opacity: .8;
+}
+
+a.terms{
+  color: red;
+  font-size: 25px;
+  position: fixed;
+  top: 180px;
+  left: 580px;
+  opacity: .8;
+}
+
+
+a.culture{
+  color: red;
+  font-size: 25px;
+  position: fixed;
+  top: 180px;
+  left: 680px;
+  opacity: .8;
+}
+
+a.about{
+  color: red;
+  font-size: 25px;
+  position: fixed;
+  top: 180px;
+  left: 800px;
+  opacity: .8;
+}
